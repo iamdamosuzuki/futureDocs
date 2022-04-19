@@ -29,3 +29,4 @@ search_tokenizer_separator: /[\s/]+/
 #heading_anchors: true
 #color_scheme: "dark"
 #theme: "just-the-docs"
+theme: jekyll-theme-minimal
